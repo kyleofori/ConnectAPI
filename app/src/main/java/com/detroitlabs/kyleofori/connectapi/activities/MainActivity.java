@@ -7,6 +7,7 @@ import android.app.Activity;
 import android.app.AlertDialog;
 
 import com.detroitlabs.kyleofori.connectapi.R;
+import com.detroitlabs.kyleofori.connectapi.models.ObjectItem;
 
 public class MainActivity extends Activity {
 
